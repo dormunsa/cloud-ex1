@@ -1,0 +1,23 @@
+{
+  "name": "cloud-ex1",
+  "version": "1.0.0",
+  "description": "cloud-ex1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dormunsa/cloud-ex1.git"
+  },
+  "author": "Dor Munsa Miki Makmel Yarden Hazan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dormunsa/cloud-ex1/issues"
+  },
+  "homepage": "https://github.com/dormunsa/cloud-ex1#readme",
+  "dependencies": {
+    "aws-sdk": "^2.437.0",
+    "slack-webhook": "^1.0.0"
+  }
+}
